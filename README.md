@@ -9,7 +9,7 @@
 <h2> about me </h2>
 
 - 🔭 I’m currently working on **Qualitity Testing** / **ML Projects** / **School Portal Management**
-- 🌱 I’m currently learning **Robotframework** / **Machine Learning **
+- 🌱 I’m currently learning **Robotframework** / **Machine Learning**
 - 👯 I’m looking to collaborate on **GDSC Project II**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
