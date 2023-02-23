@@ -4,16 +4,17 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1012049378552315914/1069727698789871726/26.jpg"/>
 
-### Hi there 👋
+# Hi there 👋
 
 <h2> about me </h2>
-- 🔭 I’m currently working on Qualitity Testing / ML Projects / School Portal Management
-- 🌱 I’m currently learning Robotframework / Machine Learning 
-- 👯 I’m looking to collaborate on GDSC Project II
+
+- 🔭 I’m currently working on **Qualitity Testing** / **ML Projects** / **School Portal Management**
+- 🌱 I’m currently learning **Robotframework** / **Machine Learning **
+- 👯 I’m looking to collaborate on **GDSC Project II**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: linkedin 
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: **linkedin** [Aron Ligsay](https://www.linkedin.com/in/aron-ligsay/)
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: ...
 
 <h2> current skills </h2>
