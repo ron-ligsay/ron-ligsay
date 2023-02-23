@@ -1,10 +1,12 @@
+
+
+<div>
+
+<img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1012049378552315914/1069727698789871726/26.jpg"/>
+
 ### Hi there 👋
 
-
-**ron-ligsay/ron-ligsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<h2> about me </h2>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,16 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!--<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>-->
-<div>
-
-<img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1012049378552315914/1069727698789871726/26.jpg"/>
-
-<h2> about me </h2>
-
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
 
 <h2> current skills </h2>
   
@@ -45,7 +37,7 @@ Here are some ideas to get you started:
   </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/artworks/60223956">Image by Hiten</a>
+<!--<a href="https://www.pixiv.net/en/artworks/60223956">Image by Hiten</a>-->
   </div>
   </div>
 
