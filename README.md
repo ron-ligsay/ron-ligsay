@@ -13,19 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
- <p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<!--<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>-->
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1012049378552315914/1069727698789871726/26.jpg"/>
 
-<h2> / about me /</h2>
+<h2> about me </h2>
 
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
 
-<h2> / current skills / </h2>
+<h2> current skills </h2>
   
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
@@ -52,4 +51,4 @@ Here are some ideas to get you started:
 
 ---
 
-Credit: [zillastar](https://github.com/zillastar)
+<!--Credit: [zillastar](https://github.com/zillastar)-->
