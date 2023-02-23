@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ron-ligsay/ron-ligsay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!-- <p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p> -->
+
+ <p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://cdn.discordapp.com/attachments/1012049378552315914/1069727698789871726/26.jpg"/>
