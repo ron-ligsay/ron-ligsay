@@ -8,7 +8,7 @@
 
 <h2> about me </h2>
 
-- 🔭 I’m currently working on **Qualitity Ensurance** / **ML Projects** / **Leading a Team under an Organization**
+- 🔭 I’m currently working on **Qualitity Ensurance** / **ML Projects** / **Computer Vision  Guild**
 - 🌱 I’m currently learning **Test Automation** / **Machine Learning**
 - 👯 I’m looking to collaborate on **GDSC Project II**
 - 📫 How to reach me: **linkedin:** [Aron Kurt Ligsay](https://www.linkedin.com/in/aron-ligsay/)
